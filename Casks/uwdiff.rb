@@ -2,8 +2,8 @@ cask "uwdiff" do
   arch arm: "arm64", intel: "x64"
 
   version "1.0.0"
-  sha256 arm:   "2d00447edf6ccc0ff625759dfa9a847bec480f926c1fe200f4cd8df501038482",
-         intel: "cd9be7a6de5ec2f28a7fc8e6e84fb02f01255d11637592699a32d00bf56c09bd"
+  sha256 arm:   "5660992e7886e1a08b945fdc240c8cbbeab47e9a2d276fc88374fb5c1a05b5eb",
+         intel: "7b9873bb644d5d0662ad50c6f9ccd4157280723a91194459923a401d1f8d9d71"
 
   url "https://github.com/amru195704/UwDiff/releases/download/v#{version}/UwDiff-#{version}-mac-#{arch}.dmg"
   name "UwDiff"
