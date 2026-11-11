@@ -4,6 +4,8 @@
 
 ## English
 
+> **Main repository** (source, releases, docs): https://github.com/amru195704/UwView — this repo only holds the packaging. UwDiff: https://github.com/amru195704/UwDiff
+
 [Homebrew](https://brew.sh) tap for [UwView](https://github.com/amru195704/UwView): open and search huge text/log files, with the `uvf` command.
 
 **Current version: 1.9.1** (v1.9 “Full Spectrum”) — [release notes](https://github.com/amru195704/UwView/releases/tag/v1.9.1)
@@ -61,6 +63,8 @@ Update: `brew upgrade --cask uwdiff` · Remove: `brew uninstall --cask uwdiff`
 License: [UwDiff License](https://github.com/amru195704/UwDiff/blob/main/LICENSE) (PolyForm Internal Use 1.0.0 plus a permission to redistribute the official binaries as packages). UwDiff is a separate product, not part of UwView.
 
 ## 日本語
+
+> **本体リポ**（ソース・リリース・ドキュメント）: https://github.com/amru195704/UwView — このリポはパッケージ定義だけです。UwDiff: https://github.com/amru195704/UwDiff
 
 [UwView](https://github.com/amru195704/UwView) の [Homebrew](https://brew.sh) tap です。巨大なテキスト／ログファイルを開いて探すアプリと、`uvf` コマンドが入ります。
 
